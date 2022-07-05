@@ -1,0 +1,47 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+    padding-right: 5px;
+  
+    
+}
+.pink-color{
+    color: rgb(189, 34, 86);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: -100%;
+    height: 100%;
+   margin-left: 6%;
+   margin-right: 12px;
+}
+.half-width img{
+    width: 110%;
+    padding-right: 120%;
+    padding-left: 120px;
+    margin-top: -150px;
+}
+.link-button{
+   text-decoration: none; 
+   background-image: linear-gradient(orange, tomato);
+   padding: 10px 30px;
+   color: rgb(54, 45, 129);
+   font-weight: 900; 
+   border-radius: 20px;
+}
+.half-size img{
+    width: 30%;
+    padding-left: 120px;
+}
+.half-size{
+    width: 50%;
+    background-color: bisque;
+    margin-top: -10%;
+}
+.my-recipies{
+    text-align: center
+}
